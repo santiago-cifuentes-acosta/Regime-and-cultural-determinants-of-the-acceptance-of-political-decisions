@@ -1,0 +1,2 @@
+# Regime-and-cultural-determinants-of-the-acceptance-of-political-decisions
+Analysis of the dataset Regime and Cultural Determinants of the Acceptance of Political Decisions in Times of Crisis (DAPEK) (Giebler et al 2022), downloaded from GESIS. I explore the responses of over 9000 research subjects in 6 countries to questionnaires about their political views and attitudes toward policies implemented in the COVID pandemic
